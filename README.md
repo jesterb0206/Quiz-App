@@ -15,11 +15,11 @@
 
 <br>
 
-![Quiz App]()
+![Quiz App](images/quiz-app.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Quiz-App/)
 
 <br>
 
